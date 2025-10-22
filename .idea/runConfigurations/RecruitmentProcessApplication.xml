@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RecruitmentProcessApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="Recruitment" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="pl.edu.atar.recruitment.RecruitmentProcessApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

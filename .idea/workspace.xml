@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da62f36d-7914-4f32-b556-19e9d7202e34" name="Changes" comment="Location change. Update required." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="new-activiti-diagram.bpmn20" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.21.4" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tpotempa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tpotempa/University-Recruitment-1.0.0.git&quot;,
+    &quot;accountId&quot;: &quot;a2227e7d-f40f-4751-b838-aad784b736ba&quot;
+  }
+}</component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" environment="test" />
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http" environment="test" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Y86SpVRQAbeOpcLFIQPKUb9aW5" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.RecruitmentProcessApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/tpotempa/Documents/#PROJECT#/IdeaProjects/Camunda/University-Recruitment/University-Recruitment-2.0.0&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.13908046&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.20481928&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;164e195bea8790e8fabe8bda932067c9&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.edu.anstar.recruitment.worker" />
+      <recent name="pl.edu.anstar.recruitment.workers" />
+      <recent name="pl.edu.anstar.recruitment.exception" />
+      <recent name="pl.edu.anstar.recruitment.services" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Recruitment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Recruitment" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da62f36d-7914-4f32-b556-19e9d7202e34" name="Changes" comment="" />
+      <created>1699894862421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699894862421</updated>
+      <workItem from="1699894864896" duration="5123000" />
+      <workItem from="1701547755764" duration="898000" />
+      <workItem from="1701552941921" duration="10236000" />
+      <workItem from="1701615605661" duration="1395000" />
+      <workItem from="1701617043223" duration="34248000" />
+      <workItem from="1701716743515" duration="1432000" />
+      <workItem from="1701760436913" duration="789000" />
+      <workItem from="1701761255657" duration="241000" />
+      <workItem from="1701761533154" duration="154000" />
+      <workItem from="1701761715977" duration="318000" />
+      <workItem from="1701762068370" duration="2064000" />
+      <workItem from="1702240616594" duration="132000" />
+      <workItem from="1703583849376" duration="1025000" />
+      <workItem from="1703584915283" duration="198000" />
+      <workItem from="1703587388620" duration="3282000" />
+      <workItem from="1703592545534" duration="742000" />
+      <workItem from="1703593335528" duration="255000" />
+      <workItem from="1704287593065" duration="174000" />
+      <workItem from="1704722920431" duration="845000" />
+      <workItem from="1704884740043" duration="600000" />
+      <workItem from="1705048923664" duration="48000" />
+      <workItem from="1705049087993" duration="602000" />
+      <workItem from="1705229320308" duration="11000" />
+      <workItem from="1705303309080" duration="9000" />
+      <workItem from="1705324747212" duration="7000" />
+      <workItem from="1705325236548" duration="7000" />
+      <workItem from="1705911907301" duration="12000" />
+      <workItem from="1706469384191" duration="34000" />
+      <workItem from="1708672884472" duration="5791000" />
+      <workItem from="1709112632021" duration="1718000" />
+      <workItem from="1713420221903" duration="13000" />
+      <workItem from="1713425141344" duration="370000" />
+      <workItem from="1713425708552" duration="51000" />
+      <workItem from="1715749547713" duration="980000" />
+      <workItem from="1716446353105" duration="1184000" />
+      <workItem from="1716448377678" duration="1702000" />
+      <workItem from="1716453435487" duration="1217000" />
+      <workItem from="1716467316700" duration="814000" />
+      <workItem from="1728839760435" duration="2698000" />
+      <workItem from="1728909132991" duration="13545000" />
+      <workItem from="1729498230686" duration="10015000" />
+      <workItem from="1730104991217" duration="4305000" />
+      <workItem from="1730645150874" duration="135000" />
+      <workItem from="1730645629742" duration="7003000" />
+      <workItem from="1730655126234" duration="322000" />
+      <workItem from="1730655453783" duration="1072000" />
+      <workItem from="1730656532737" duration="13026000" />
+      <workItem from="1732310948999" duration="11000" />
+      <workItem from="1733735565364" duration="2007000" />
+      <workItem from="1734292270486" duration="1629000" />
+      <workItem from="1734294573550" duration="12687000" />
+      <workItem from="1736688760067" duration="10011000" />
+      <workItem from="1742471680997" duration="476000" />
+      <workItem from="1742478049063" duration="8000" />
+      <workItem from="1742974929192" duration="7097000" />
+      <workItem from="1744181812807" duration="495000" />
+      <workItem from="1744732106071" duration="2000" />
+      <workItem from="1746639354183" duration="92000" />
+      <workItem from="1749618169001" duration="22000" />
+      <workItem from="1749618218404" duration="180000" />
+      <workItem from="1749618469659" duration="103000" />
+      <workItem from="1749622466633" duration="1166000" />
+      <workItem from="1749623869172" duration="13278000" />
+      <workItem from="1749743015940" duration="6000" />
+      <workItem from="1760699358690" duration="13984000" />
+      <workItem from="1760890652092" duration="51000" />
+      <workItem from="1760893136777" duration="5602000" />
+      <workItem from="1760901605590" duration="102000" />
+      <workItem from="1760901719328" duration="91000" />
+      <workItem from="1760901824140" duration="302000" />
+      <workItem from="1760902134930" duration="207000" />
+      <workItem from="1760902349933" duration="495000" />
+      <workItem from="1760902854456" duration="319000" />
+      <workItem from="1760903181822" duration="21000" />
+      <workItem from="1760903211000" duration="541000" />
+      <workItem from="1760903759096" duration="357000" />
+      <workItem from="1760904123708" duration="40000" />
+      <workItem from="1760904170225" duration="475000" />
+      <workItem from="1760904653163" duration="91000" />
+      <workItem from="1760904751398" duration="413000" />
+      <workItem from="1760905171152" duration="369000" />
+      <workItem from="1760905546979" duration="94000" />
+      <workItem from="1760905646827" duration="120000" />
+      <workItem from="1760905777321" duration="2230000" />
+      <workItem from="1760908016908" duration="74000" />
+      <workItem from="1760908099971" duration="163000" />
+      <workItem from="1760908271083" duration="115000" />
+      <workItem from="1760908392515" duration="63000" />
+      <workItem from="1760908461687" duration="210000" />
+      <workItem from="1760908679537" duration="53000" />
+      <workItem from="1760908739259" duration="99000" />
+      <workItem from="1760908843623" duration="139000" />
+      <workItem from="1760908995220" duration="789000" />
+      <workItem from="1760909792586" duration="84000" />
+      <workItem from="1760909884845" duration="92000" />
+      <workItem from="1760909985304" duration="660000" />
+      <workItem from="1760946971567" duration="730000" />
+      <workItem from="1760947740017" duration="146000" />
+      <workItem from="1760947894956" duration="537000" />
+      <workItem from="1760948439281" duration="2162000" />
+      <workItem from="1760950609324" duration="1618000" />
+      <workItem from="1760952298347" duration="3259000" />
+      <workItem from="1760956313287" duration="183000" />
+      <workItem from="1760956506265" duration="2082000" />
+      <workItem from="1760979595939" duration="2179000" />
+      <workItem from="1760984737010" duration="56000" />
+      <workItem from="1760984857056" duration="368000" />
+      <workItem from="1760985272363" duration="61000" />
+      <workItem from="1760985433458" duration="1021000" />
+      <workItem from="1760986469849" duration="25130000" />
+    </task>
+    <task id="LOCAL-00001" summary="Location change. Update required.">
+      <created>1703588277936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703588277936</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Location change. Update required.">
+      <created>1703588433992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703588433992</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Location change. Update required.">
+      <created>1703588494752</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703588494752</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Location change. Update required.">
+      <created>1703588510845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703588510845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Location change. Update required.">
+      <option name="closed" value="true" />
+      <created>1715749803050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715749803050</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Location change. Update required." />
+    <option name="LAST_COMMIT_MESSAGE" value="Location change. Update required." />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
