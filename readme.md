@@ -17,12 +17,12 @@ Run:
 * Set process id and message names in the class `ProcessConstants`.
 * Using Camunda Modeler:
   * Create new project/folder in the Camunda workspace;
-  * Upload BPMN files/models from local project `recources/model` into project/folder created in the Camunda workspace.
+  * Upload BPMN files/models from local project `resources/model` into project/folder created in the Camunda workspace.
 * With Camunda Modeler change id of the processes and names of the messages according to names in class ProcessConstants:
   * In the file recruitment.bpmn (process id);
   * In the file calculate-pay-recruitment-fee (process id) & in message intermediate event "Payment completed" (message name);
   * In the file payment (process id) & in message start event "Payment required" (message name).
-* Download changed BPMN files/models into local project `recources/model`.
+* Download changed BPMN files/models into local project `resources/model`.
 * Run the application:
 
 ```
