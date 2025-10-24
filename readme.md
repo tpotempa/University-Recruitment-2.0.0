@@ -22,7 +22,7 @@ Run:
   * In the file recruitment.bpmn (process id);
   * In the file calculate-pay-recruitment-fee (process id) & in message intermediate event "Payment completed" (message name);
   * In the file payment (process id) & in message start event "Payment required" (message name).
-* Download changed BPMN files/models into local project `recources/model`;
+* Download changed BPMN files/models into local project `recources/model`.
 * Run the application:
 
 ```
