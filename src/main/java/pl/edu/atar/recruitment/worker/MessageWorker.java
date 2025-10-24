@@ -22,7 +22,8 @@ public class MessageWorker {
     @Autowired
     private CamundaClient client;
 
-    @JobWorker(type = ProcessConstants.BPMN_PROCESS_PAYMENT_JOB_TYPE_INVOCATION, autoComplete = false)
+    //@JobWorker(type = ProcessConstants.BPMN_PROCESS_PAYMENT_JOB_TYPE_INVOCATION, autoComplete = false)
+    @JobWorker(type = "payment-invocation", autoComplete = false)
     public void handlePaymentInvocation(final JobClient jobClient, final ActivatedJob job) {
         LOGGER.info("Task/Job definition type: {}", job.getType());
         final Map<String, Object> variables = job.getVariablesAsMap();
@@ -45,7 +46,8 @@ public class MessageWorker {
         jobClient.newCompleteCommand(job).variables(variables).send().join();
     }
 
-    @JobWorker(type = ProcessConstants.BPMN_PROCESS_PAYMENT_JOB_TYPE_COMPLETION, autoComplete = false)
+    //@JobWorker(type = ProcessConstants.BPMN_PROCESS_PAYMENT_JOB_TYPE_COMPLETION, autoComplete = false)
+    @JobWorker(type = "payment-completion", autoComplete = false)
     public void handlePaymentCompletion(final JobClient jobClient, final ActivatedJob job) {
         LOGGER.info("Task/Job definition type: {}", job.getType());
         final Map<String, Object> variables = job.getVariablesAsMap();
