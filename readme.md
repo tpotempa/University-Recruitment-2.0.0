@@ -10,14 +10,19 @@ Requirements:
 
 Run:
 * Download/clone the code.
-* Create a Camunda 8 SaaS cluster.
-* Set API client and DB connection details in the file `application.properties`.
-* Set process id and jobs type in the class ProcessConstants.
 * Log in Camunda account.
-* With Camunda Modeler change id of the processes and messages name according to names in class ProcessConstants:
-  * In the file recruitment.bpmn (proces[CandidateApplicationWorker.java](src/main/java/pl/edu/atar/recruitment/worker/CandidateApplicationWorker.java)s id);
+* Create a Camunda 8 SaaS cluster (if the cluster doesn't exist).
+* Create new client API.
+* Set API client credentials and DB connection details in the file `application.properties`.
+* Set process id and message names in the class `ProcessConstants`.
+* Using Camunda Modeler:
+  * Create new project/folder in the Camunda workspace;
+  * Upload BPMN files/models from local project `recources/model` into project/folder created in the Camunda workspace.
+* With Camunda Modeler change id of the processes and names of the messages according to names in class ProcessConstants:
+  * In the file recruitment.bpmn (process id);
   * In the file calculate-pay-recruitment-fee (process id) & in message intermediate event "Payment completed" (message name);
-  * In the file payment (process id) & in message start event "Paymen required" (message name).
+  * In the file payment (process id) & in message start event "Payment required" (message name).
+* Download changed BPMN files/models into local project `recources/model`;
 * Run the application:
 
 ```
