@@ -22,7 +22,7 @@
     <bpmn:sequenceFlow id="Flow_1hck5ky" sourceRef="StartEvent_CalculatePaymentRequestReceived" targetRef="Activity_CalculateRecruitmentFee" />
     <bpmn:sendTask id="Activity_InvokePayment" name="Invoke payment">
       <bpmn:extensionElements>
-        <zeebe:taskDefinition type="payment-invocation-tomasz-potempa" />
+        <zeebe:taskDefinition type="payment-invocation" />
         <zeebe:ioMapping>
           <zeebe:input source="=discountedRecruitmentFee" target="recruitmentFee" />
         </zeebe:ioMapping>
